@@ -1,5 +1,5 @@
 # Tugas 1 HTML
-Membuat Meta Charset HTML 5, Element Title, Meta Author,Keywords dan Description, Meta Refresh, dan Link Favicon.
+Membuat <b><i> Meta Charset HTML 5</i></b>, <b><i>Element Title</i></b>, <b><i>Meta Author</i></b>, <b><i>Keywords dan Description</i></b>, <b><i>Meta Refresh</i></b>, dan <b><i>Link Favicon</i></b>.
 
 <h3><i>Output </i>:</h3>
 
